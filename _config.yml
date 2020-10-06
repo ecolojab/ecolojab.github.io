@@ -80,11 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Josh Bruce"
+  name             : 
   avatar           : "profile.png"
-   bio              : >- 
-    "Graduate researcher of" 
-    "invasive species ecology"
+  bio              :
   location         : 
   employer         : "Temple University"
   pubmed           : 
