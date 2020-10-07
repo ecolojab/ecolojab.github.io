@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Josh Bruce"
+title                    : "About"
 title_separator          : "-"
 name                     : &name "Josh Bruce"
 description              : &description "Graduate researcher of invasive species ecology at Temple University"
@@ -80,11 +80,11 @@ analytics:
 
 # Site Author
 author:
-  name             : 
+  name             : "Josh Bruce"
   avatar           : "profile.png"
   bio              :
-  location         : 
   employer         : "Temple University"
+  location         : "Philadelphia, PA"
   pubmed           : 
   googlescholar    : 
   email            : "joshua.bruce@temple.edu"
